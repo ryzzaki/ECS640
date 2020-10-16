@@ -1,6 +1,6 @@
 ## ECS640 Big Data Processing
 
-This repository contains my solutions to all the labs for Big Data Processing module at Queen Mary, University of London
+This repository contains my solutions to all the labs for `Big Data Processing` module at `Queen Mary, University of London`
 
 ### Get started
 
