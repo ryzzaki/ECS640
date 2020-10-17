@@ -32,3 +32,17 @@ python3 wordcount_popular.py sherlock.txt > ./results/out_wordcount_popular.txt
 # using hadoop
 python3 wordcount_popular.py -r hadoop hdfs://studoop.eecs.qmul.ac.uk/<user>/fcuadrado/sherlock.txt > ./results/out_wordcount_popular.txt
 ```
+
+## Quiz questions
+
+### Total Word Count
+
+```bash
+python3 total_words.py ./results/out_wordcount.txt > ./results/out_total_wordcount.txt
+```
+
+### Edge Case Scenario
+
+```bash
+python3 quiz_question.py sherlock.txt > ./results/edge_case.txt
+```

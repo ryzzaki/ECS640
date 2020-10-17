@@ -8,7 +8,6 @@ WORD_REGEX = re.compile(r"\b\w+\b")
 
 
 class Counter(MRJob):
-
     def mapper(self, _, line):
         words = WORD_REGEX.findall(line)
         for word in words:
